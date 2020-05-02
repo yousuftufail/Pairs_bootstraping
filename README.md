@@ -6,7 +6,7 @@ Two data sets female's ilitteracy and fertility are used that are uploaded in a 
 
 
 
-# required modules are as below:
+# Required modules are as below:
 
 1. numpy
 2. pandas
